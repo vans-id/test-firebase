@@ -1,0 +1,7 @@
+# Notes
+
+```
+docker build -t test_firebase .
+
+docker run -p 3000:3000 test_firebase
+```
